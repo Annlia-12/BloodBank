@@ -1,7 +1,6 @@
  package bloodbank;
 
 import java.sql.*;
-
 public class BloodBank {
     public static Connection getConnection() {
         try {
